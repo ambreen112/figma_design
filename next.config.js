@@ -1,5 +1,5 @@
 module.exports = {
     images: {
-      domains: ['/hero.png'], // Replace with the correct domain
+      src:"/hero.png",  alt:"man"
     }
 };
