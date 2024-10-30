@@ -3,3 +3,4 @@ module.exports = {
       domains: ['/hero.png'], // Replace with the correct domain
     }
 };
+export default module.exports;
